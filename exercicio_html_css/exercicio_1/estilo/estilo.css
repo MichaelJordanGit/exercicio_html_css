@@ -1,0 +1,217 @@
+header{
+    background-image: linear-gradient(to right, black 1%, yellow 99%);
+    height: 150px;
+    position: fixed;
+    margin-top: -15px;
+}
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+    
+}
+#menu{
+    padding: 20px;
+}
+#titulo{
+    padding-top: 150px;
+    margin-bottom: -150px;
+}
+#produtoseservicos{
+    font-family:sans-serif;
+    font-weight: 800;
+    color: yellow;
+}
+#home:hover{
+    color: black;
+    background-color: yellow;
+    transition:0.5s;
+}
+a{
+    text-decoration: none;
+}
+#home{
+    color: white;
+    background-color: black;
+    width: 70px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: -170px;
+    margin-bottom: 10px;
+}
+#quemsomos:hover{
+    color: black;
+    background-color: yellow;
+    transition: 0.5s;
+}
+#quemsomos{
+    color: white;
+    background-color: black;
+    width: 70px;
+    height: 50px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    margin-left: 170px;
+    margin-top: -90px;
+    line-height: 15px;   
+}
+#contato:hover{
+    color: black;
+    background-color: yellow;
+    transition: 0.5s;
+}
+#contato{
+    color: white;
+    background-color: black;
+    width: 70px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    margin-left: 290px;
+    margin-top: -80px;
+}
+#qs{
+    margin-top: 8px;
+}
+
+#nome{
+    width: auto;
+    height: auto;
+    position: absolute;    
+    margin-left: 500px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    top: 7px;       
+}
+#fone{
+    
+    height: 40px;
+    width: 40px;
+    margin-left: 1100px;
+    margin-top: 15px;
+
+}
+#controle{
+    
+    width: 40px;
+    height: 40px;
+    margin-left: 1186px;
+    margin-top: 20px;
+    padding-bottom: 15px;
+}
+#computador{
+    width: 40px;
+    height: 40px;
+    margin-left: 1101px;
+    margin-top: -150px;
+    padding-bottom: 30px;
+
+}
+#celular{
+
+    width: 50px;
+    height: 50px;
+    margin-left: 1180px;
+    margin-top: -50px;
+    padding-bottom: 13px;
+    
+} 
+#reparoplaca{
+    width: 300px;
+    height: 180px;
+    border-radius: 30px;
+
+}
+#atualizacao{
+    
+    width: 300px;
+    height: 180px;
+    border-radius: 30px;
+}
+#trocadebateria{
+    width: 300px;
+    height: 180px;
+    border-radius: 30px;
+}
+#capasdecelular{
+    
+    width: 300px;
+    height: 180px;
+    border-radius: 30px;
+}
+#trocadetela{
+    
+    width: 300px;
+    height: 180px;
+    border-radius: 30px;
+}
+#conectores{
+    
+    width: 300px;
+    height: 180px;
+    border-radius: 30px;
+}
+#whats{
+    width: 80px;
+    height: 80px;
+    padding-left: 1200px;
+    position: fixed;
+    bottom: 1px;
+}
+.prod{
+    padding-top: 50px;
+    width: 300px;
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+#body{
+    height: 700px;
+    width: 1300px;
+    margin-top: 200px;
+    text-align: center;
+
+}
+.sobrenos{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 120px;
+    background-color: yellow;
+    text-align: center;
+    width: 700px;
+    margin-left: 350px;
+}
+p{
+    text-align: center;
+}
+#formulariocontato{
+    height: 250px;
+    width: 400px;
+    padding-top: 250px;
+    margin-left: 520px;
+}
+#formulariocontato, label{
+    color: white;
+}
+#nome_{
+    color: black;
+    width: 300px;
+}
+#email_{
+    color: black;
+    width: 300px;
+}
+#assunto_{
+    color: black;
+    width: 300px;
+}
+#msg_{
+    color:  black;
+    width: 300px;
+    height: 150px;
+}
